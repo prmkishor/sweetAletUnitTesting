@@ -1,2 +1,4 @@
 # sweetAlet2 Unit Testing with Angular
-Sweetalert2 Angular Unit Testing
+sweetalert2 is a great beautiful, responsive, customizable, accessible, replacement for JavaScript’s popup boxes. There is no dependency.
+
+
